@@ -1,7 +1,7 @@
 {
-  "name": "r-free-nextjs",
+  "name": "tailadmin-free-nextjs",
   "version": "0.1.0",
-  
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   // other metadata
 };
 
-const FormLayout = () => {
+const GeneralDetails = () => {
   return (
     <>
       <Breadcrumb pageName="General Details" />
@@ -88,4 +88,4 @@ const FormLayout = () => {
   );
 };
 
-export default FormLayout;
+export default GeneralDetails;

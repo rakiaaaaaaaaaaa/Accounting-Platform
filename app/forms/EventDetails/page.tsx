@@ -9,7 +9,7 @@ export const metadata: Metadata = {
 
 import React from "react";
 
-const EventDetailsForm = () => {
+const EventDetails = () => {
   return (
     <>
     <Breadcrumb pageName="Event Details" />
@@ -144,5 +144,5 @@ const EventDetailsForm = () => {
   );
 };
 
-export default EventDetailsForm;
+export default EventDetails;
 

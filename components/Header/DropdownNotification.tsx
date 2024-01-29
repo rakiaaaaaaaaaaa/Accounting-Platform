@@ -89,8 +89,7 @@ const DropdownNotification = () => {
                 <span className="text-black dark:text-white">
                   Edit your information in a swipe
                 </span>{' '}
-                Sint occaecat cupidatat non proident, sunt in culpa qui officia
-                deserunt mollit anim.
+                HI there I'me here.
               </p>
 
               <p className="text-xs">12 May, 2025</p>
@@ -120,7 +119,7 @@ const DropdownNotification = () => {
                 <span className="text-black dark:text-white">
                   There are many variations
                 </span>{' '}
-                of passages of Lorem Ipsum available, but the majority have
+                of what about available, but the majority have
                 suffered
               </p>
 
@@ -136,7 +135,7 @@ const DropdownNotification = () => {
                 <span className="text-black dark:text-white">
                   There are many variations
                 </span>{' '}
-                of passages of Lorem Ipsum available, but the majority have
+                of somethingm available, but the majority have
                 suffered
               </p>
 
